@@ -1,3 +1,4 @@
 test poprawka
 test poprawka zdalna
 test2
+test remote rebase
